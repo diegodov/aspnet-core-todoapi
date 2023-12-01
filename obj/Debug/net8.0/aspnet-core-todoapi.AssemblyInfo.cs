@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspnet-core-todoapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3391f515b61bb344959e6f41c72531da9e7fb80")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspnet-core-todoapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspnet-core-todoapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
